@@ -1,0 +1,2 @@
+module ProlifesBackoffice::WelcomeHelper
+end
